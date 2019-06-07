@@ -1,5 +1,7 @@
 The MATLAB (The MathWorks, USA) code presented here is for calculating absorption coefficient spectra based on the light intensity spectra provided by the Online Hyperspectral Integrating Cavity Absorption Meter (OSCAR, TriOS GmbH, Germany).
 
+Please cite the software using the following doi:
+
 [![DOI](https://zenodo.org/badge/175247342.svg)](https://zenodo.org/badge/latestdoi/175247342)
 
 Instructions for software use:
