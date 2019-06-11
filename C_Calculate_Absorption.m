@@ -457,7 +457,7 @@ function yi=loess_m(xr,yr,xi,alpha)
 % Output:
 % yi (vector): Interpolated data
 % 
-% Original code provided by Rüdiger Röttgers
+% Original code provided by Rüdiger Röttgers and Helmut Schiller
 % Institute for Coastal Research
 % Helmholtz Zentrum Geesthacht.
 %
@@ -505,7 +505,7 @@ end
 function [a,b]=fitw_m(xt,yt,w)
 % Subfunction for loess_m.m
 %
-% Original code provided by Rüdiger Röttgers
+% Original code provided by Rüdiger Röttgers and Helmut Schiller
 % Institute for Coastal Research
 % Helmholtz Zentrum Geesthacht.
 %
