@@ -2,7 +2,7 @@ The MATLAB (The MathWorks, USA) code presented here is for calculating absorptio
 
 Please cite the software using the following doi:
 
-[![DOI](https://zenodo.org/badge/175247342.svg)](https://zenodo.org/badge/latestdoi/175247342)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3243405.svg)](https://doi.org/10.5281/zenodo.3243405)
 
 Instructions for software use:
 
